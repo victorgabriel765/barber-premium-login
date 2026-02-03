@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/img/fundoLogin.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#conteiner {
+    width: 550px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1E1E1E;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px 1px rgb(0, 0, 0);
+}
+
+.imgLogo {
+    position: relative;
+    height: 160px;
+    top: -90px;
+}
+
+.title {
+    text-align: center;
+    position: relative;
+    top: -16px;
+}
+
+.title h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+
+}
+
+.title p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+
+}
+
+.subTitle {
+    margin-top: 40px;
+    margin-bottom: 10px;
+
+}
+
+.subTitle h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+
+
+.inputBox {
+    margin-bottom: 10px;
+    background-color: #2A2A2A;
+    height: 35px;
+    border-radius: 12px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+
+}
+
+.inputBox input {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 16px;
+    padding-left: 10px;
+
+}
+
+.inputBox i {
+    color: #F39C12;
+    margin-left: 17px;
+    font-size: 18px;
+
+}
+
+.remember {
+    display: inline-flex;
+    gap: 70px;
+    margin-bottom: 15px;
+}
+
+.remember label,
+p,
+a {
+    font-family: "Montserrat", sans-serif;
+
+    a {
+        color: #F39C12;
+        text-decoration: none;
+    }
+}
+
+input[type="checkbox"] {
+    accent-color: #F39C12;
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+
+}
+
+button {
+    margin-left: 22px;
+    height: 45px;
+    width: 220px;
+    border: none;
+    background-color: #F39C12;
+    border-radius: 12px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #D35400;
+}
+
+.cadastro {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.cadastro p {
+    color: white;
+}
