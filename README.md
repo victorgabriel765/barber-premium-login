@@ -19,3 +19,7 @@ O intuito principal foi colocar em prática as tecnologias **HTML5** e **CSS3**,
 ---
 **Desenvolvido por Victor Gabriel** 🧑‍💻" > README.md# barber-premium-login
 Painel de login moderno para barbearia, desenvolvido com HTML5 e CSS3
+
+## 📸 Demonstração do Projeto
+
+![Preview do Painel de Login](img/projeto-final/captura%20projeto.jpeg)
