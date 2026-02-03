@@ -23,3 +23,5 @@ Painel de login moderno para barbearia, desenvolvido com HTML5 e CSS3
 ## 📸 Demonstração do Projeto
 
 ![Preview do Painel de Login](img/projeto-final/captura%20projeto.jpeg)
+## 🔗 Link do Projeto
+Aceda ao site online aqui: [https://victorgabriel765.github.io/barber-premium-login/](https://victorgabriel765.github.io/barber-premium-login/)
